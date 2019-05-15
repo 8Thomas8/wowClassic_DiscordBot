@@ -25,7 +25,7 @@ function dateDiff(dateATM, releaseDate){
   return result;
 }
 
-// This function calculte time pending from now to the release date
+// This function calculate time pending from now to the release date
 function calcRelease(dateATM) {
   releaseDate = new Date("August 27 2019 00:00");
 
